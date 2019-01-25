@@ -16,7 +16,10 @@ html_str = """
     </body)
 </html>
 """
-
+# bye 뽑기
 bs_obj = bs4.BeautifulSoup(html_str,"html.parser")
-hello = bs_obj.find("li")
-print(hello.text)
+lis = bs_obj.findAll("li")
+print(lis)
+
+for li in lis:
+    print(li)
