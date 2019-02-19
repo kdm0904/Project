@@ -1,0 +1,4 @@
+Lipsum is a free and useful Lorem Ipsum generator that you can make use of in your projects.
+As a freelance designer, you might already be aware of the value of the Lorem Ipsum text.
+Even though it is centuries old, Lorem Ipsum is still very popular as a placeholder text to help designers showcase their designs to clients.
+Such placeholder text aids in visualization.
